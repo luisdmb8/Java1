@@ -1,0 +1,13 @@
+package enumeracion;
+
+public enum Dias {  // AL CCOLOCAR ENUM , LOS ELEMENTOS SERAN PUBLICOS , FINALES Y ESTATICOS 
+	
+	LUNES,
+	MARTES,
+	MIERCOLES, 
+	JUEVES,
+	VIERNES,
+	SABADO,
+	DOMINGO
+
+}
