@@ -1,4 +1,4 @@
-package sentenciasdecontrol;
+package sentencias_IF_ELSE_SWITCH;
 
 import java.util.Scanner;
 

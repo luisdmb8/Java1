@@ -1,4 +1,4 @@
-package sentenciasdecontrol;
+package sentencias_IF_ELSE_SWITCH;
 
 public class SentenciaControlSwitch {
 	public static void main(String[] args) {
